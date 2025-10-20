@@ -1,0 +1,7 @@
+ Initial values: age = 17 , hasPermission = True
+
+• Which condition(s) are true?
+if (hasPermission) 
+System.out.println("Access granted with permission.");
+
+• Output: Access granted with permission.

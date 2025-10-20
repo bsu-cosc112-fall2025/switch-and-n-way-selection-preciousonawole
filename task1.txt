@@ -1,0 +1,9 @@
+  Initial value: score = 88, grade = B
+
+• Which condition is true? 
+ else if (score >= 80)
+grade = "B"
+
+• Final value of grade = B 
+
+• Output: Grade:B 

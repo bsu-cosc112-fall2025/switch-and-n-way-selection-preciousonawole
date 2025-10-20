@@ -1,0 +1,5 @@
+Varible Name         Option 1                                      Option 2                          Option 3
+Data type            Sting                                         String                            String
+Value in memory      Scored concrete - $3000                       Carpeting - $5000                 Wood floors in living areas, capreting in bedrooms, tile in bath areas - 10000
+Line declared        8                                             9                                 10
+line Initialized     16                                            19                                22

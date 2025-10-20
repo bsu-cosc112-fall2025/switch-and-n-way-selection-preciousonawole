@@ -1,0 +1,5 @@
+Varible Name         Model 100                                      Model 200                          Model 300
+Data type            Sting                                          String                             String
+Value in memory      Remote control, timer, stereo sound - $1000    Adds picture-in-picture - $1200    Adds HDTV, flat screen, 16x9 aspect ratio - $2400
+Line declared        7                                              8                                  9
+line Initialized     16                                             19                                 22
